@@ -1,0 +1,15 @@
+{
+  "schema": 2,
+  "app": "ERP1.0",
+  "channel": "stable",
+  "version": "1.0.41.22",
+  "display_version": "v1.0.41.22 员工账号可靠登录修复",
+  "installer_url": "https://github.com/ERP-UK/erp1-amazon-images/releases/download/erp1-v1.0.41.22/ERP1.0-v1.0.41.22-UK-Resilient-Account-Auth-Online-Update-Setup.exe",
+  "sha256": "7f2f15a03bd0bc77f3c52242eefcaffcbe00a053b8ce71d50fd89878759f521c",
+  "bytes": 1310720,
+  "published_at": "2026-10-27T06:46:48Z",
+  "notes": "修复员工电脑登录：Cloudflare 或网络 HTML 拦截不再误报密码错误；在线验证始终优先；新增 RSA 签名单账号激活和 Windows DPAPI 本机加密授权；真实账号密码错误绝不离线放行。",
+  "signature_alg": "RSASSA-PKCS1-v1_5-SHA256",
+  "signing_key_id": "9d839444d20819e1f972cc8a",
+  "signature": "uhH7P9UnGgyAAwFUwnkIxKUScQZZuejOPukUtmj+EvGzc534Pi2B1tTB6/N95LPqDFJ0S01SsNJRmAtSrVDZmcg3B7ocRr4vg3MLELL47yM6KwtZ4EKBAOtdq6k5nWkqZAkk2Sfudmzf2VjDQvyI5T7fKxKzmCQ1VoiSebdFrapEQGmE9iwxUvCznKj6kCpdVcsSj7zk1Mvji6TE7Dbhh0aFxf1lyxBlhUCP1aeAL/PiRjusc5onixXDXJr+8KcX6ERnL/cpmSqEranjDwvytCQSHaGnttGGr+4HvHe0cnCVWdYOfzg970i6O4lhZpI1yEtyioOgSR0QUVmZaXg7/7zcMzDp0DU5AVFwMRPIQGG0KQAnKkjjkzebM3pZWd2yanqNXYnxvOxG3FkUYjT4h+tn9BgoTJuCH6qKhDScbj0n2I6AfKOSq3h3bCyTEXeQ4KPUz9WUQ3gAurjtVO8HRp1oIVh6Nr7yLfEWDWt9+VY/km+vnqHAS8DHbGK217kT"
+}
